@@ -1,0 +1,7 @@
+C:\code\GitsInterview\GitsInterview\GitsInterview\obj\Debug\GitsInterview.csprojAssemblyReference.cache
+C:\code\GitsInterview\GitsInterview\GitsInterview\obj\Debug\GitsInterview.csproj.CoreCompileInputs.cache
+C:\code\GitsInterview\GitsInterview\GitsInterview\bin\Debug\GitsInterview.exe.config
+C:\code\GitsInterview\GitsInterview\GitsInterview\bin\Debug\GitsInterview.exe
+C:\code\GitsInterview\GitsInterview\GitsInterview\bin\Debug\GitsInterview.pdb
+C:\code\GitsInterview\GitsInterview\GitsInterview\obj\Debug\GitsInterview.exe
+C:\code\GitsInterview\GitsInterview\GitsInterview\obj\Debug\GitsInterview.pdb
